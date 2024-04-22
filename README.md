@@ -1,4 +1,28 @@
-### Hi there 👋
+
+# ¡Hola, Soy Eduardo! 👋
+
+Bio under construction.
+
+
+## 🚀 Sobre Mí
+Front End Developer, proximamente Full Stack Developer! Y en otros momentos intento hacer música.
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Node, ReactJS...
+
+
+## 🔗 Links
+*Proximamente:
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edulogo/)
+
+Mi Música acá: 
+[![traxsource](https://www.traxsource.com/logos-and-images/logo-standard-background.png)](https://www.traxsource.com/artist/362101/ed-log)
+## 📝 Otros
+📍 Never Give Up!
+
 
 <!--
 **EduLoGo/edulogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
