@@ -18,8 +18,6 @@ Javascript, HTML, CSS, Node, ReactJS...
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edulogo/)
 
-Mi Música acá: 
-[![traxsource](https://www.traxsource.com/logos-and-images/logo-standard-background.png)](https://www.traxsource.com/artist/362101/ed-log)
 ## 📝 Otros
 📍 Never Give Up!
 
